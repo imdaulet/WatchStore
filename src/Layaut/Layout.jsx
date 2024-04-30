@@ -2,7 +2,7 @@ import React from 'react';
 import Header from "./Header/Header";
 import Footer from "./Footer/Footer";
 
-const Layaut = () => {
+const Layout = () => {
     return (
         <div>
             <Header/>
@@ -11,4 +11,4 @@ const Layaut = () => {
     );
 };
 
-export default Layaut;
+export default Layout;
